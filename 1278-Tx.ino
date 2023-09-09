@@ -1,4 +1,5 @@
-//Code for the Transmitter Citcuit
+//Code for the Transmitter Circuit
+//Arduino Nano 3V si required
 
 #include <SPI.h>
 #include <LoRa.h>
