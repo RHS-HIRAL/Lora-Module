@@ -1,4 +1,4 @@
-//Code for Transmitter Circuit using <LoRa.h> library.
+//Simple Code for Transmitter Circuit using <LoRa.h> library.
 
 #include <SPI.h>
 #include <LoRa.h>
