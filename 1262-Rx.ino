@@ -1,4 +1,4 @@
-//Code for Reciever Circuit using SX1262
+//Code for Reciever Circuit for SX1262
 
 #include <LoraSx1262.h>
 
