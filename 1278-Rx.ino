@@ -1,4 +1,5 @@
 //Code for the Receiver Circuit
+//NodeMCU is required
 
 #include <SPI.h>
 #include <LoRa.h>
