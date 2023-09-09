@@ -1,3 +1,5 @@
+//Code for Transmitter Circuit for SX1262
+
 #include <LoraSx1262.h>
 
 byte* msg = "Hello world.  This a pretty long payload. We can transmit up to 255 bytes at once, which is pretty neat if you ask me";
